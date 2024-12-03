@@ -1,7 +1,7 @@
 
-The following code sample (`VisualizeJ48.java`) takes an [ARFF](../formats_and_processing/arff.md) file as input, trains a `[J48](https://weka.sourceforge.io/doc/weka/classifiers/trees/j48.html)` and displays the generated tree with the `[TreeVisualizer](https://weka.sourceforge.io/doc/weka/gui/treevisualizer/treevisualizer.html)` class.
+The following code sample (`VisualizeJ48.java`) takes an [ARFF](../formats_and_processing/arff.md) file as input, trains a `[J48](https://weka.sourceforge.io/doc.dev/weka/classifiers/trees/J48.html)` and displays the generated tree with the `[TreeVisualizer](https://weka.sourceforge.io/doc.dev/weka/gui/treevisualizer/TreeVisualizer.html)` class.
 
-This can be done with all classifiers that implement the `[weka.core.Drawable](https://weka.sourceforge.io/doc/weka/core/drawable.html)` interface.
+This can be done with all classifiers that implement the `[weka.core.Drawable](https://weka.sourceforge.io/doc.dev/weka/core/Drawable.html)` interface.
 
 # Source code
 ```java
